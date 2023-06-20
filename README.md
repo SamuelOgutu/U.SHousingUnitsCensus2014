@@ -15,4 +15,4 @@ By making use of various charts, including line charts, bar charts, and stacked 
 
 This project serves as a practical exercise to showcase my data analysis skills, applying techniques learned from tutorials to a real-world dataset. 
 
-By sharing this project on GitHub, I aim to contribute to the open-source community and provide a valuable resource for fellow data analysts, researchers, and anyone interested in exploring and visualizing U.S. census data on housing completion. Through collaboration and feedback, we can collectively improve our skills and insights in the field of data analysis.
+By sharing this project on GitHub, I aim to contribute to the open-source community and provide a valuable resource for fellow data analysts, researchers, and anyone interested in exploring and visualizing U.S. census data on housing completion.
