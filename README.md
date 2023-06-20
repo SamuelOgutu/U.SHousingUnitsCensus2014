@@ -1,5 +1,6 @@
 # U.SHousingUnitsCensus2014
 During my journey to gain knowledge in the use of SQL, I embarked on a practical project to consolidate my learning and enhance my skills. This is the first project on this journey which focuses on using SQL primarily alongside theoretical information gained from the Google data analytics certificate course to analyse data from the U.S. Census 2014 to gain insights into housing completion rates in the United States between 1968 and 2014. By examining this data, I aim to uncover trends and patterns that can provide an understanding of the housing landscape during that period.
+
 The dataset consists of information on houses completed by month and region, offering a comprehensive insight into the housing market across different parts of the country. Through visualizations and statistical analysis, we aim to address real-world questions related to housing completion, such as regional variations, seasonal patterns, and overall trends over time.
 By making use of various charts, including line charts, bar charts, and stacked charts, I can effectively present the data to highlight key findings. These visualizations help answer questions such as;
 
